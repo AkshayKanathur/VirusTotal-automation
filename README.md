@@ -101,7 +101,7 @@ If the file is **not found**, it gets **uploaded and analyzed** automatically.
 ---
 
 ## **📄 License**  
-This project is licensed under the [**MIT License**](LICENCE).  
+This project is licensed under the [**MIT License**](https://github.com/AkshayKanathur/VirusTotal-automation/blob/main/LICENSE).  
 
 ---
 
