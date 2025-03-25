@@ -1,5 +1,3 @@
----
-
 ### **🔍 VirusTotal File Analyzer**  
 A simple Python script to **hash, check, and upload files** to [VirusTotal](https://www.virustotal.com) for malware analysis.  
 It first checks if the file is already in VirusTotal’s database and uploads it only if needed.  
@@ -20,8 +18,8 @@ It first checks if the file is already in VirusTotal’s database and uploads it
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/virustotal-automation.git
-cd virustotal-automation
+git clone https://github.com/AkshayKanathur/VirusTotal-automation.git
+cd VirusTotal-automation
 ```
 
 ### **2️⃣ Create a Virtual Environment (Optional but Recommended)**
@@ -75,7 +73,7 @@ $env:VT_API_KEY="your_api_key_here"
 Run the script and provide the file path when prompted:  
 
 ```bash
-python virustotal_v2.py
+python virustotal_automator.py
 ```
 
 Example Run:  
