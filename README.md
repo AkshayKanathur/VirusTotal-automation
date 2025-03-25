@@ -101,7 +101,7 @@ If the file is **not found**, it gets **uploaded and analyzed** automatically.
 ---
 
 ## **📄 License**  
-This project is licensed under the **MIT License**.  
+This project is licensed under the [**MIT License**](LICENCE).  
 
 ---
 
